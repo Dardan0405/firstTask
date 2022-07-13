@@ -1,0 +1,60 @@
+.Perdorimi {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 5%;
+    @media screen  and (max-width: 1200px ) and (min-width: 480px){
+        background-color: white
+    }
+
+}  
+    
+        
+    
+    
+
+    .permbajtja{
+        display: flex;
+        align-items: center;
+        border: 0px  solid lightblue;
+        width: 30% ;
+        margin: 20px 0;
+        
+            @media screen  and (max-width: 1200px;) and (min-width: 480px){
+                background-color: white
+            }
+                
+                
+            
+        }
+    
+    .h5{
+        font-size: larger;
+        margin-bottom: 5%;
+        font-style: italic   ;
+    
+        @media screen  and (max-width: 1200px;) and (min-width: 480px){
+            background-color:white
+        }
+    }
+    .p {
+        font-size: 20px;
+        
+        @media screen  and (max-width: 1200px;) and (min-width: 480px){
+            background-color: white
+        }
+    }
+    .icon{
+        background-color: white;
+    border-radius: 50%;
+    border: 3px solid lightblue;
+    padding: 5px;
+    
+    @media screen  and (max-width: 1200px;) and (min-width: 480px){
+        background-color: white
+    }
+}
+
+
+
+
